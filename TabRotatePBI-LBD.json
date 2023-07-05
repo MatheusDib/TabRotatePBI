@@ -1,0 +1,44 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/dashboards/864dc758-c590-4c7a-9d43-03215dca76f9?experience=power-bi&chromeless=1",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection?experience=power-bi&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection3d33c79e33fb4e28b2f9?experience=power-bi&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection878cfb5d04f153450aa8?experience=power-bi&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/40eea3b7-092c-477e-b1ad-8792bf221c86/ReportSection?experience=power-bi&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/8b9e9d8c-7e32-45dd-b77d-cd7e8b159cc2/ReportSection?experience=power-bi&bookmarkGuid=Bookmark4dbe69534193b3a1eb5b&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/8b9e9d8c-7e32-45dd-b77d-cd7e8b159cc2/ReportSection8bb2e0a2b3502047ca8d?experience=power-bi&bookmarkGuid=Bookmark34075e6ed2dccd820fff&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 60
+    }
+  ]
+}
