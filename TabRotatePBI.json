@@ -6,18 +6,18 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
-      "duration": 8,
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection?experience=power-bi&chromeless=1",
+      "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection3d33c79e33fb4e28b2f9?experience=power-bi&chromeless=1",
+      "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 8,
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection878cfb5d04f153450aa8?experience=power-bi&chromeless=1",
+      "duration": 15,
       "tabReloadIntervalSeconds": 15
     }
   ]
