@@ -6,6 +6,11 @@
   "closeExistingTabs": true,
   "websites": [
     {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/dashboards/864dc758-c590-4c7a-9d43-03215dca76f9?experience=power-bi&chromeless=1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection?experience=power-bi&chromeless=1",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
