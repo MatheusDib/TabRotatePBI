@@ -7,57 +7,72 @@
   "websites": [
     {
       "url": "https://loreal.sharepoint.com/sites/-BR-IOPInfocell/Files%20%20Gesto%20do%20Conhecimento/_%20Governa%C3%A7a%20COI%20Infocell/Televis%C3%B5es/Capa.jpg",
-      "duration": 5,
+      "duration": 15,
       "tabReloadIntervalSeconds": 0
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection?experience=power-bi&chromeless=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 0
+      "duration": 120,
+      "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection3d33c79e33fb4e28b2f9?experience=power-bi&bookmarkGuid=Bookmarkc03ad7c49da824a2afe5&chromeless=1",
-      "duration": 20,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/65bbfa3b-0cb1-4212-967b-d4ccd8731127/ReportSection878cfb5d04f153450aa8?experience=power-bi&bookmarkGuid=Bookmark139b1d3c571b90282dbc&chromeless=1",
-      "duration": 20,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/4334ffc0-97f5-421e-a557-5177ff9bcfa1/ReportSection?experience=power-bi&bookmarkGuid=Bookmarke9b8c21b50012dd95fad&chromeless=1",
-      "duration": 20,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/55ce9ce9-55d6-4e60-a547-9709530ab5ec/ReportSection?experience=power-bi&chromeless=1",
-      "duration": 20,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/55ce9ce9-55d6-4e60-a547-9709530ab5ec/ReportSectiondba7a6b36872c0bbbd86?experience=power-bi&bookmarkGuid=8b5a4d8fa22589c701ea&chromeless=1",
-      "duration": 20,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/ba755390-7ab9-4eaf-99d2-e7f2f4c5e61c/ReportSection?experience=power-bi&chromeless=1",
-      "duration": 20,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/ba755390-7ab9-4eaf-99d2-e7f2f4c5e61c/6b52a345c1a0310b0846?experience=power-bi&chromeless=1",
-      "duration": 20,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/ba755390-7ab9-4eaf-99d2-e7f2f4c5e61c/dfd3c1c73120e5089901?experience=power-bi&chromeless=1",
-      "duration": 20,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/ba755390-7ab9-4eaf-99d2-e7f2f4c5e61c/c95df866097b21705720?experience=power-bi&chromeless=1",
-      "duration": 20,
+      "duration": 120,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/b2c9aace-bb1f-41ec-bb91-6671f6152a97/ReportSectionb15f8f743c98023a0228?experience=power-bi&chromeless=1",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/b2c9aace-bb1f-41ec-bb91-6671f6152a97/ReportSection?experience=power-bi&chromeless=1",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url": "https://app.powerbi.com/groups/da50d7ab-3116-4e16-859b-da86e2ac8e37/reports/b2c9aace-bb1f-41ec-bb91-6671f6152a97/ReportSectionb852c4d2ae7e19984ddc?experience=power-bi&chromeless=1",
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     }
   ]
